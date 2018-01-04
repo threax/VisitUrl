@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VisitUrl": {
+      "commandName": "Project",
+      "commandLineArgs": "https://iddev.spcollege.edu/.well-known/openid-configuration"
+    }
+  }
+}
